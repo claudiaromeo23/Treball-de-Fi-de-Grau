@@ -1,6 +1,6 @@
 # Dades suplementàries del TFG
 
-Aquest repositori conté els fitxers utilitzats i generats durant el Treball de Fi de Grau sobre l’avaluació i optimització in silico de bacteriocines candidates contra *Acinetobacter baumannii*.
+Aquest repositori conté els fitxers utilitzats i generats durant el Treball de Fi de Grau sobre l’avaluació i optimització *in silico* de bacteriocines candidates contra *Acinetobacter baumannii*.
 
 ## Contingut
 
