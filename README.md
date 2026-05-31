@@ -4,7 +4,7 @@ Aquest repositori conté els fitxers utilitzats i generats durant el Treball de 
 
 ## Contingut
 
-- `database/': conjunt de bacteriocines en Excel després d'aplicar filtres.
+- `database/`: conjunt de bacteriocines en Excel després d'aplicar filtres.
 - `data/`: fitxers de dades en format FASTA i CSV.
 - `scripts/`: scripts utilitzats per a l’anàlisi estadística i la representació gràfica.
 
